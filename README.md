@@ -11,3 +11,12 @@ import Data.Char
 
 main = putStrLn ("halo world")
 ```
+
+> selamat mencoba
+
+`untuk mengcompile nya gunakan ghc`
+
+`termux : pip install ghc`
+`Ubuntu : sudo apt-get install ghci`
+
+- silakan kunjungi [ghc](https://ghc.org)
