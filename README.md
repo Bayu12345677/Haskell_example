@@ -34,7 +34,7 @@ main = putStrLn ("halo world")
 - [![](https://img.shields.io/static/v1?style=flat&logo=windows&label=blog&message=helixs-crew&color=red)](https://helixs.id)
 - [![](https://img.shields.io/static/v1?style=flat&logo=linux&label=event%20helixs.id&message=TheLast&color=cyan)](http://event.helixs.id/TheLast)
 ```
-tunjukan skill mu di envent the Last competisi
+tunjukan skill mu di event the Last competisi
 ada berbagai hadiah yg menarik dan seru
 
 tunggu apa lagi cepat daftar sebelum di tutup !
