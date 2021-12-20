@@ -16,8 +16,8 @@ main = putStrLn ("halo world")
 
 `untuk mengcompile nya gunakan ghc`
 
-`termux : pip install ghc`
-`Ubuntu : sudo apt-get install ghci`
+- `termux : pip install ghc`
+- `Ubuntu : sudo apt-get install ghci`
 
 
 - info lebih rinci silakan kunjungi [ghc](https://downloads.haskell.org)
