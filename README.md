@@ -19,4 +19,4 @@ main = putStrLn ("halo world")
 `termux : pip install ghc`
 `Ubuntu : sudo apt-get install ghci`
 
-- silakan kunjungi [ghc](https://ghc.org)
+- silakan kunjungi [ghc](https://download-haskell.org)
