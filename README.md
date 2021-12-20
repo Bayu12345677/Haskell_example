@@ -30,12 +30,11 @@ main = putStrLn ("halo world")
 > eksekusi : ./file_anda.hs
 
 
+- #### kunjungi juga
+[![](https://img.shields.io/static/v1?style=flat&logo=windows&label=blog&message=helixs-crew&color=red)](https://helixs.id)
+[![](https://img.shields.io/static/v1?style=flat&logo=linux&label=event%20helixs.id&message=TheLast&color=cyan)](http://event.helixs.id/TheLast)
 
-
-- `kunjungi juga` : [![](https://img.shields.io/static/v1?style=flat&logo=windows&label=blog&message=helixs-crew&color=red)](https://helixs.id)
-
-- `asah skill anda di event` [![](https://img.shields.io/static/v1?style=flat&logo=linux&label=event%20helixs.id&message=TheLast&color=cyan)](http://event.helixs.id/TheLast)
-
-- *youtube* : [![](https://img.shields.io/static/v1?style=flat&logo=youtube&label=youtube&message=pejuang%20kentang&color=blue)](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
+- ##### youtube saya
+[![](https://img.shields.io/static/v1?style=flat&logo=youtube&label=youtube&message=pejuang%20kentang&color=blue)](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
 
 -   *terimkasi telah berkunjung*
