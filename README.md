@@ -19,4 +19,23 @@ main = putStrLn ("halo world")
 `termux : pip install ghc`
 `Ubuntu : sudo apt-get install ghci`
 
-- silakan kunjungi [ghc](https://download-haskell.org)
+
+- info lebih rinci silakan kunjungi [ghc](https://downloads.haskell.org)
+
+
+- `ubuntu : ghci -o <file_anda> <file_output>`
+- `termux : ghc -o <file_anda> <file_output>`
+
+
+> eksekusi : ./file_anda.hs
+
+
+
+
+- `kunjungi juga` : [![](https://img.shields.io/static/v1?style=flat&logo=windows&label=blog&message=helixs-crew&color=red)](https://helixs.id)
+
+- `asah skill anda di event` [![](https://img.shields.io/static/v1?style=flat&logo=linux&label=event%20helixs.id&message=TheLast&color=cyan)](http://event.helixs.id/TheLast)
+
+- *youtube* : [![](https://img.shields.io/static/v1?style=flat&logo=youtube&label=youtube&message=pejuang%20kentang&color=blue)](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
+
+-   *terimkasi telah berkunjung*
