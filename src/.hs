@@ -1,4 +1,4 @@
-modoule Main where
+module Main where
 import Data.Char
 
 main = do
