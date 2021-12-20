@@ -14,7 +14,7 @@ main = putStrLn ("halo world")
 
 > selamat mencoba
 
-`untuk mengcompile nya gunakan ghc`
+`untuk mengcompile nya gunakan ghci / ghc`
 
 - `termux : pip install ghc`
 - `Ubuntu : sudo apt-get install ghci`
